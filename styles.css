@@ -1,0 +1,13 @@
+/* index.html styles*/
+
+.main {
+    background-color:brown;
+    color: antiquewhite;
+    font-weight: bold;
+    text-align: center;
+}
+
+.list-recipes {
+    display: flex;
+    justify-content: space-between;
+}
