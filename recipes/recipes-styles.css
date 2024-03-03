@@ -13,6 +13,10 @@ h3 {
     font-size: 1.5rem;
 }
 
+p {
+    font-family: "Papyrus", sans-serif;
+}
+
 .ingred,
 .direct {
     color: brown;
